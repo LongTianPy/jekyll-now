@@ -19,3 +19,5 @@ As I put down in (https://github.com/LongTianPy/LIN_proto/issues/1), keep it in 
 Trying to load genomes from NCBI RefSeq database.
 
 Dont forget to double check the file comparison function. Make sure it works!
+
+--Long

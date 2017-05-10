@@ -7,4 +7,6 @@ This is the first LINbase blog post to take notes on to-dos of LINbase developme
 
 Time stamp should be automatically generated, all we need for a post is let people know who are you.
 
-Long
+--Long
+
+p.s. [Markdown language cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
