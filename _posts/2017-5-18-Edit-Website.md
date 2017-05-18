@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thank you, Grant! And welcome Karan! Notes for meeting @ 05/10/2017
+title: Meeting note with Boris @ 5/18/17
 ---
 
 #####Note
