@@ -10,5 +10,8 @@ title: Meeting note with Boris @ 5/18/17
 * Add popup window on position headers to show thresholds
 ##### Back end
 * Have LINgroups associated to genomes in the database
-#####
+##### Collaboration
 * Created a private github repository called CodeIgniter
+
+#### Update
+* Re-written searchProcess page to better use variables 
