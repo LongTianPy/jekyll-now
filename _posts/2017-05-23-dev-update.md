@@ -12,5 +12,5 @@ title: "Dev-update"
 
 #### New stuff
 - Dropdown menu for LINgroup in searchProcessView2 page created. Will direct to LINgroup details and show members in current page/search.
-- Developing LINgroup detail page.
+- ~~Developing LINgroup detail page.~~ Page created on 5/23/17
 - Need to figure out a way to show members in the current page.
