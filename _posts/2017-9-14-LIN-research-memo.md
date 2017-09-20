@@ -8,4 +8,18 @@ title: "Research memo"
 - But tons of cases whose ANI's pretty high but cov<0.7.
 - When only looking at ANI pairs whose cov>70%, the linear correlation between ANI and estimated ANI is much better, 0.994.
 - Among 280 pairs which are filtered out but having > 95% ANI, only 3 pairs not in the same species. Even more, 2 of the pairs belong to genera Escherichia and Shigella, and 1 pair belongs to Agrobacterium genus.
+- Confirmed, as long as it's > ANI 95%, however coverage is, belongs to the same species.
+- What makes us confuse is the part that we cannot assign a 95% level LINgroup using MinHash because there's no Jaccard similarity reported.
+- Check tax ID from metadata, index=4, maybe use data mining to dig the taxonomy out.
+- Solution:
+  - lower than 59%: definitely not the same family, because table "same" has shown
+  - higher than 75%: now doubt same family, because table "not same" has no ANI higher than 75%
+- wkid==0 (no wkid) and cov>0.3 ==> ANI<0.7
 -
+```python
+Pseudocode
+ANI = ANI
+cov = percentage coverage
+wkid = k-mer similarity
+
+```
