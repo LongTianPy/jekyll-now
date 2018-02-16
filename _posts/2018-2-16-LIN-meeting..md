@@ -3,7 +3,7 @@ layout: "post"
 title: "Notes for LIN meeting"
 ---
 # Meeting notes
-- Chengjie talked about the issues and things to improve he's found in the website ([see here](https://longtianpy.github.io/2018-2-14-meeting.md)).  
+- Chengjie talked about the issues and things to improve he's found in the website ([see here](https://longtianpy.github.io/meeting)).  
 - Long will finish adapting the website to the new database schema next week, and work on converting Taxonomy ID to LINgroups after that, hopefully done in another 2 weeks.  
 - Boris also has some new thoughts about the extension of identification functionality.
 
